@@ -1,22 +1,21 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=example.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=voir-anime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/awddawawd/TestPlugins",
-        "fileSize": 15420,
+        "fileSize": 14500,
         "status": 1,
         "language": "fr",
         "authors": [
             "awddawawd"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "Anime"
         ],
         "version": 1,
-        "internalName": "hhhhh",
-        "description": "My custom Cloudstream provider built in Codespaces",
+        "internalName": "VoirAnime",
+        "description": "Voir Anime provider built from scratch",
         "url": "https://file.garden/adi-fUv5YCgViivI/VoirAnime.cs3",
-        "name": "hhhhhh"
+        "name": "Voir Anime"
     }
 ]
