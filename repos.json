@@ -5,7 +5,7 @@
         "repositoryUrl": "https://github.com/awddawawd/TestPlugins",
         "fileSize": 15420,
         "status": 1,
-        "language": "en",
+        "language": "fr",
         "authors": [
             "awddawawd"
         ],
@@ -16,7 +16,7 @@
         "version": 1,
         "internalName": "ExampleProvider",
         "description": "My custom Cloudstream provider built in Codespaces",
-        "url": "https://file.garden/adi-fUv5YCgViivI/ExampleProvider.cs3",
+        "url": "https://file.garden/adi-fUv5YCgViivI/VoirAnime.cs3",
         "name": "ExampleProvider"
     }
 ]
